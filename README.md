@@ -1,4 +1,4 @@
 # ASCC
 Image >> ASCII
 
-A Pyhton project to convert images into ASCII
+A Python project to convert images into ASCII
